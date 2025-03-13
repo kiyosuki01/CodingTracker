@@ -2,6 +2,8 @@
 
 A simple and interactive **console-based coding tracker** built with **C#** and **Spectre.Console**. ⏳📊  
 
+![image](https://github.com/user-attachments/assets/9dfd8bf2-2936-4900-a51a-15e6952861e8)
+
 ---
 
 ## 📌 Features
